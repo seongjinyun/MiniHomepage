@@ -18,11 +18,4 @@
 
 ## Contact Me
 이메일 : ckwdktek12@mgail.com
-
-## Images
-
-![This is an alt text.](/image/sample.webp "This is a sample image.")
-
-```
-print("hello world")
-```
+---
